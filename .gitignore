@@ -134,6 +134,3 @@ credentials.py
 
 # Storing dataset
 Dataset/
-
-# Storing the weights
-**/cp.ckpt.data-00000-of-00001

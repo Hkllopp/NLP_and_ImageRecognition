@@ -134,3 +134,7 @@ credentials.py
 
 # Storing dataset
 Dataset/
+
+# Storing data fetched by API
+*.csv
+*.xlsx
